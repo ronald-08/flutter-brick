@@ -1,0 +1,11 @@
+{
+  "bricks": {
+    "flutter-brick": {
+      "git": {
+        "url": "https://github.com/ronald-08/flutter-brick",
+        "path": "",
+        "ref": "2340139e9ca4e29bac04e75816ba898beb38afb3"
+      }
+    }
+  }
+}

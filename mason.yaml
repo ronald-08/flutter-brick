@@ -1,0 +1,5 @@
+bricks:
+  flutter-brick:
+    git:
+      url: "https://github.com/ronald-08/flutter-brick"
+      path: 
